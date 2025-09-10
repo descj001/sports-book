@@ -1,0 +1,413 @@
+event_id,event_start,home,away,selection,book,price_decimal,run_ts
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Baltimore Orioles,FanDuel,1.07,2025-08-14T21:11:10.780861+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Seattle Mariners,FanDuel,7.8,2025-08-14T21:11:10.780861+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Baltimore Orioles,DraftKings,1.06,2025-08-14T21:11:10.780861+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Seattle Mariners,DraftKings,8.1,2025-08-14T21:11:10.780861+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Baltimore Orioles,BetMGM,1.09,2025-08-14T21:11:10.780861+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Seattle Mariners,BetMGM,7.5,2025-08-14T21:11:10.780861+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Baltimore Orioles,BetRivers,1.05,2025-08-14T21:11:10.780861+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Seattle Mariners,BetRivers,9.0,2025-08-14T21:11:10.780861+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Chicago Cubs,FanDuel,7.0,2025-08-14T21:11:10.780861+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Toronto Blue Jays,FanDuel,1.09,2025-08-14T21:11:10.780861+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Chicago Cubs,MyBookie.ag,8.25,2025-08-14T21:11:10.780861+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Toronto Blue Jays,MyBookie.ag,1.07,2025-08-14T21:11:10.780861+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Chicago Cubs,DraftKings,5.38,2025-08-14T21:11:10.780861+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Toronto Blue Jays,DraftKings,1.14,2025-08-14T21:11:10.780861+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Chicago Cubs,Bovada,7.0,2025-08-14T21:11:10.780861+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Toronto Blue Jays,Bovada,1.09,2025-08-14T21:11:10.780861+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Chicago Cubs,BetMGM,5.25,2025-08-14T21:11:10.780861+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Toronto Blue Jays,BetMGM,1.16,2025-08-14T21:11:10.780861+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Chicago Cubs,BetRivers,5.25,2025-08-14T21:11:10.780861+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Toronto Blue Jays,BetRivers,1.12,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,FanDuel,1.79,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,FanDuel,2.08,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,MyBookie.ag,1.84,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,MyBookie.ag,2.01,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,LowVig.ag,1.79,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,LowVig.ag,2.14,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,BetOnline.ag,1.79,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,BetOnline.ag,2.14,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,DraftKings,1.8,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,DraftKings,2.03,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,Bovada,1.83,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,Bovada,2.0,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,BetMGM,1.8,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,BetMGM,2.05,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,BetUS,1.85,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,BetUS,2.08,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,BetRivers,1.82,2025-08-14T21:11:10.780861+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,BetRivers,2.02,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,FanDuel,1.54,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,FanDuel,2.56,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,MyBookie.ag,1.52,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,MyBookie.ag,2.62,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,LowVig.ag,1.55,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,LowVig.ag,2.63,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,BetOnline.ag,1.55,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,BetOnline.ag,2.63,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,BetRivers,1.5,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,BetRivers,2.6,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,BetMGM,1.5,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,BetMGM,2.65,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,DraftKings,1.5,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,DraftKings,2.62,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,BetUS,1.56,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,BetUS,2.58,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,Bovada,1.51,2025-08-14T21:11:10.780861+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,Bovada,2.6,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,FanDuel,2.5,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,FanDuel,1.56,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,MyBookie.ag,2.48,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,MyBookie.ag,1.57,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,LowVig.ag,2.6,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,LowVig.ag,1.56,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,BetOnline.ag,2.6,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,BetOnline.ag,1.56,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,DraftKings,2.48,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,DraftKings,1.55,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,Bovada,2.48,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,Bovada,1.56,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,BetMGM,2.55,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,BetMGM,1.53,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,BetUS,2.51,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,BetUS,1.58,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,BetRivers,2.55,2025-08-14T21:11:10.780861+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,BetRivers,1.53,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,FanDuel,1.49,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,FanDuel,2.72,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,MyBookie.ag,1.5,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,MyBookie.ag,2.68,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,BetRivers,1.47,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,BetRivers,2.75,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,LowVig.ag,1.57,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,LowVig.ag,2.58,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,BetOnline.ag,1.57,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,BetOnline.ag,2.58,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,DraftKings,1.51,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,DraftKings,2.58,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,BetMGM,1.48,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,BetMGM,2.7,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,BetUS,1.55,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,BetUS,2.6,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,Bovada,1.51,2025-08-14T21:11:10.780861+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,Bovada,2.62,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,FanDuel,1.57,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,FanDuel,2.46,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,MyBookie.ag,1.58,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,MyBookie.ag,2.46,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,LowVig.ag,1.6,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,LowVig.ag,2.5,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,BetOnline.ag,1.6,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,BetOnline.ag,2.5,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,DraftKings,1.57,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,DraftKings,2.44,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,Bovada,1.56,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,Bovada,2.45,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,BetMGM,1.57,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,BetMGM,2.45,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,BetUS,1.6,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,BetUS,2.48,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,BetRivers,1.54,2025-08-14T21:11:10.780861+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,BetRivers,2.5,2025-08-14T21:11:10.780861+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,FanDuel,1.57,2025-08-14T21:11:10.780861+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,FanDuel,2.48,2025-08-14T21:11:10.780861+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,LowVig.ag,1.61,2025-08-14T21:11:10.780861+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,LowVig.ag,2.49,2025-08-14T21:11:10.780861+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,BetOnline.ag,1.61,2025-08-14T21:11:10.780861+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,BetOnline.ag,2.49,2025-08-14T21:11:10.780861+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,DraftKings,1.57,2025-08-14T21:11:10.780861+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,DraftKings,2.44,2025-08-14T21:11:10.780861+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,MyBookie.ag,1.56,2025-08-14T21:11:10.780861+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,MyBookie.ag,2.43,2025-08-14T21:11:10.780861+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Texas Rangers,BetOnline.ag,1.88,2025-08-14T21:11:10.780861+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Toronto Blue Jays,BetOnline.ag,2.03,2025-08-14T21:11:10.780861+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Texas Rangers,LowVig.ag,1.88,2025-08-14T21:11:10.780861+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Toronto Blue Jays,LowVig.ag,2.03,2025-08-14T21:11:10.780861+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Texas Rangers,FanDuel,1.85,2025-08-14T21:11:10.780861+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Toronto Blue Jays,FanDuel,2.0,2025-08-14T21:11:10.780861+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Texas Rangers,DraftKings,1.83,2025-08-14T21:11:10.780861+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Toronto Blue Jays,DraftKings,1.99,2025-08-14T21:11:10.780861+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Texas Rangers,MyBookie.ag,1.83,2025-08-14T21:11:10.780861+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Toronto Blue Jays,MyBookie.ag,1.99,2025-08-14T21:11:10.780861+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Texas Rangers,BetUS,1.88,2025-08-14T21:11:10.780861+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Toronto Blue Jays,BetUS,2.03,2025-08-14T21:11:10.780861+00:00
+a6b26295a0f333cd609e5c09b3d9fa66,2025-08-15 23:11:00+00:00,Boston Red Sox,Miami Marlins,Boston Red Sox,FanDuel,1.6,2025-08-14T21:11:10.780861+00:00
+a6b26295a0f333cd609e5c09b3d9fa66,2025-08-15 23:11:00+00:00,Boston Red Sox,Miami Marlins,Miami Marlins,FanDuel,2.42,2025-08-14T21:11:10.780861+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,New York Mets,FanDuel,1.81,2025-08-14T21:11:10.780861+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,Seattle Mariners,FanDuel,2.06,2025-08-14T21:11:10.780861+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,New York Mets,LowVig.ag,1.83,2025-08-14T21:11:10.780861+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,Seattle Mariners,LowVig.ag,2.09,2025-08-14T21:11:10.780861+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,New York Mets,BetOnline.ag,1.83,2025-08-14T21:11:10.780861+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,Seattle Mariners,BetOnline.ag,2.09,2025-08-14T21:11:10.780861+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,New York Mets,DraftKings,1.81,2025-08-14T21:11:10.780861+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,Seattle Mariners,DraftKings,2.01,2025-08-14T21:11:10.780861+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,New York Mets,MyBookie.ag,1.81,2025-08-14T21:11:10.780861+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,Seattle Mariners,MyBookie.ag,2.01,2025-08-14T21:11:10.780861+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,New York Mets,BetUS,1.83,2025-08-14T21:11:10.780861+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,Seattle Mariners,BetUS,2.09,2025-08-14T21:11:10.780861+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Chicago White Sox,FanDuel,2.58,2025-08-14T21:11:10.780861+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Kansas City Royals,FanDuel,1.53,2025-08-14T21:11:10.780861+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Chicago White Sox,LowVig.ag,2.65,2025-08-14T21:11:10.780861+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Kansas City Royals,LowVig.ag,1.55,2025-08-14T21:11:10.780861+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Chicago White Sox,BetOnline.ag,2.65,2025-08-14T21:11:10.780861+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Kansas City Royals,BetOnline.ag,1.55,2025-08-14T21:11:10.780861+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Chicago White Sox,DraftKings,2.58,2025-08-14T21:11:10.780861+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Kansas City Royals,DraftKings,1.52,2025-08-14T21:11:10.780861+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Chicago White Sox,MyBookie.ag,2.57,2025-08-14T21:11:10.780861+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Kansas City Royals,MyBookie.ag,1.51,2025-08-14T21:11:10.780861+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Chicago White Sox,BetUS,2.61,2025-08-14T21:11:10.780861+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Kansas City Royals,BetUS,1.55,2025-08-14T21:11:10.780861+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,New York Yankees,FanDuel,1.75,2025-08-14T21:11:10.780861+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,St. Louis Cardinals,FanDuel,2.14,2025-08-14T21:11:10.780861+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,New York Yankees,BetOnline.ag,1.79,2025-08-14T21:11:10.780861+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,St. Louis Cardinals,BetOnline.ag,2.14,2025-08-14T21:11:10.780861+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,New York Yankees,LowVig.ag,1.79,2025-08-14T21:11:10.780861+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,St. Louis Cardinals,LowVig.ag,2.14,2025-08-14T21:11:10.780861+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,New York Yankees,DraftKings,1.76,2025-08-14T21:11:10.780861+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,St. Louis Cardinals,DraftKings,2.08,2025-08-14T21:11:10.780861+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,New York Yankees,MyBookie.ag,1.75,2025-08-14T21:11:10.780861+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,St. Louis Cardinals,MyBookie.ag,2.08,2025-08-14T21:11:10.780861+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,New York Yankees,BetUS,1.79,2025-08-14T21:11:10.780861+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,St. Louis Cardinals,BetUS,2.15,2025-08-14T21:11:10.780861+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,FanDuel,1.54,2025-08-14T21:11:10.780861+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,FanDuel,2.54,2025-08-14T21:11:10.780861+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,LowVig.ag,1.55,2025-08-14T21:11:10.780861+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,LowVig.ag,2.64,2025-08-14T21:11:10.780861+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,BetOnline.ag,1.55,2025-08-14T21:11:10.780861+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,BetOnline.ag,2.64,2025-08-14T21:11:10.780861+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,DraftKings,1.52,2025-08-14T21:11:10.780861+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,DraftKings,2.58,2025-08-14T21:11:10.780861+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,MyBookie.ag,1.51,2025-08-14T21:11:10.780861+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,MyBookie.ag,2.57,2025-08-14T21:11:10.780861+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Los Angeles Angels,FanDuel,1.86,2025-08-14T21:11:10.780861+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Oakland Athletics,FanDuel,1.98,2025-08-14T21:11:10.780861+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Los Angeles Angels,LowVig.ag,1.94,2025-08-14T21:11:10.780861+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Oakland Athletics,LowVig.ag,1.96,2025-08-14T21:11:10.780861+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Los Angeles Angels,BetOnline.ag,1.94,2025-08-14T21:11:10.780861+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Oakland Athletics,BetOnline.ag,1.96,2025-08-14T21:11:10.780861+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Los Angeles Angels,DraftKings,1.91,2025-08-14T21:11:10.780861+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Oakland Athletics,DraftKings,1.91,2025-08-14T21:11:10.780861+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Los Angeles Angels,MyBookie.ag,1.9,2025-08-14T21:11:10.780861+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Oakland Athletics,MyBookie.ag,1.91,2025-08-14T21:11:10.780861+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Los Angeles Angels,BetUS,1.94,2025-08-14T21:11:10.780861+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Oakland Athletics,BetUS,1.96,2025-08-14T21:11:10.780861+00:00
+ffd5e4fbace80d4ddac92a1ba6c734c3,2025-08-16 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,Los Angeles Dodgers,FanDuel,1.72,2025-08-14T21:11:10.780861+00:00
+ffd5e4fbace80d4ddac92a1ba6c734c3,2025-08-16 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,San Diego Padres,FanDuel,2.18,2025-08-14T21:11:10.780861+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,San Francisco Giants,FanDuel,1.75,2025-08-14T21:11:10.780861+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,Tampa Bay Rays,FanDuel,2.14,2025-08-14T21:11:10.780861+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,San Francisco Giants,BetOnline.ag,1.79,2025-08-14T21:11:10.780861+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,Tampa Bay Rays,BetOnline.ag,2.15,2025-08-14T21:11:10.780861+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,San Francisco Giants,LowVig.ag,1.79,2025-08-14T21:11:10.780861+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,Tampa Bay Rays,LowVig.ag,2.15,2025-08-14T21:11:10.780861+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,San Francisco Giants,DraftKings,1.76,2025-08-14T21:11:10.780861+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,Tampa Bay Rays,DraftKings,2.08,2025-08-14T21:11:10.780861+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,San Francisco Giants,MyBookie.ag,1.75,2025-08-14T21:11:10.780861+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,Tampa Bay Rays,MyBookie.ag,2.08,2025-08-14T21:11:10.780861+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,San Francisco Giants,BetUS,1.79,2025-08-14T21:11:10.780861+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,Tampa Bay Rays,BetUS,2.16,2025-08-14T21:11:10.780861+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Baltimore Orioles,FanDuel,1.07,2025-08-14T21:11:34.743081+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Seattle Mariners,FanDuel,7.8,2025-08-14T21:11:34.743081+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Baltimore Orioles,DraftKings,1.06,2025-08-14T21:11:34.743081+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Seattle Mariners,DraftKings,8.1,2025-08-14T21:11:34.743081+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Baltimore Orioles,BetMGM,1.09,2025-08-14T21:11:34.743081+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Seattle Mariners,BetMGM,7.5,2025-08-14T21:11:34.743081+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Baltimore Orioles,BetRivers,1.05,2025-08-14T21:11:34.743081+00:00
+3406dc4194a80b6152139f93aa99e771,2025-08-14 17:06:26+00:00,Baltimore Orioles,Seattle Mariners,Seattle Mariners,BetRivers,9.0,2025-08-14T21:11:34.743081+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Chicago Cubs,FanDuel,7.0,2025-08-14T21:11:34.743081+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Toronto Blue Jays,FanDuel,1.09,2025-08-14T21:11:34.743081+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Chicago Cubs,MyBookie.ag,8.25,2025-08-14T21:11:34.743081+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Toronto Blue Jays,MyBookie.ag,1.07,2025-08-14T21:11:34.743081+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Chicago Cubs,DraftKings,5.38,2025-08-14T21:11:34.743081+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Toronto Blue Jays,DraftKings,1.14,2025-08-14T21:11:34.743081+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Chicago Cubs,Bovada,7.0,2025-08-14T21:11:34.743081+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Toronto Blue Jays,Bovada,1.09,2025-08-14T21:11:34.743081+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Chicago Cubs,BetMGM,5.25,2025-08-14T21:11:34.743081+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Toronto Blue Jays,BetMGM,1.16,2025-08-14T21:11:34.743081+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Chicago Cubs,BetRivers,5.25,2025-08-14T21:11:34.743081+00:00
+92733ebc332f05097e82c2f456f179da,2025-08-14 19:08:00+00:00,Toronto Blue Jays,Chicago Cubs,Toronto Blue Jays,BetRivers,1.12,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,FanDuel,1.79,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,FanDuel,2.08,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,MyBookie.ag,1.84,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,MyBookie.ag,2.01,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,LowVig.ag,1.79,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,LowVig.ag,2.14,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,BetOnline.ag,1.79,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,BetOnline.ag,2.14,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,DraftKings,1.8,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,DraftKings,2.03,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,Bovada,1.83,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,Bovada,2.0,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,BetMGM,1.8,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,BetMGM,2.05,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,BetUS,1.85,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,BetUS,2.08,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Cleveland Guardians,BetRivers,1.82,2025-08-14T21:11:34.743081+00:00
+a3b6b094b903ef84efd4e8e1cad60fd3,2025-08-14 22:41:00+00:00,Cleveland Guardians,Miami Marlins,Miami Marlins,BetRivers,2.02,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,FanDuel,1.54,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,FanDuel,2.56,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,MyBookie.ag,1.52,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,MyBookie.ag,2.62,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,LowVig.ag,1.55,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,LowVig.ag,2.63,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,BetOnline.ag,1.55,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,BetOnline.ag,2.63,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,BetRivers,1.5,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,BetRivers,2.6,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,BetMGM,1.5,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,BetMGM,2.65,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,DraftKings,1.5,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,DraftKings,2.62,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,BetUS,1.56,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,BetUS,2.58,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,Bovada,1.51,2025-08-14T21:11:34.743081+00:00
+3cd08055eb6562171e704bf3a813e476,2025-08-14 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,Bovada,2.6,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,FanDuel,2.5,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,FanDuel,1.56,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,MyBookie.ag,2.48,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,MyBookie.ag,1.57,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,LowVig.ag,2.6,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,LowVig.ag,1.56,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,BetOnline.ag,2.6,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,BetOnline.ag,1.56,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,DraftKings,2.48,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,DraftKings,1.55,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,Bovada,2.48,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,Bovada,1.56,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,BetMGM,2.55,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,BetMGM,1.53,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,BetUS,2.51,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,BetUS,1.58,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,Atlanta Braves,BetRivers,2.55,2025-08-14T21:11:34.743081+00:00
+dc702b47ac9b42026abfd78331280f3e,2025-08-14 23:10:00+00:00,New York Mets,Atlanta Braves,New York Mets,BetRivers,1.53,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,FanDuel,1.49,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,FanDuel,2.72,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,MyBookie.ag,1.5,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,MyBookie.ag,2.68,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,BetRivers,1.47,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,BetRivers,2.75,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,LowVig.ag,1.57,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,LowVig.ag,2.58,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,BetOnline.ag,1.57,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,BetOnline.ag,2.58,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,DraftKings,1.51,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,DraftKings,2.58,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,BetMGM,1.48,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,BetMGM,2.7,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,BetUS,1.55,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,BetUS,2.6,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Detroit Tigers,Bovada,1.51,2025-08-14T21:11:34.743081+00:00
+1c57a9bf030f96ff9a2585aa75aa7f75,2025-08-14 23:41:00+00:00,Minnesota Twins,Detroit Tigers,Minnesota Twins,Bovada,2.62,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,FanDuel,1.57,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,FanDuel,2.46,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,MyBookie.ag,1.58,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,MyBookie.ag,2.46,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,LowVig.ag,1.6,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,LowVig.ag,2.5,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,BetOnline.ag,1.6,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,BetOnline.ag,2.5,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,DraftKings,1.57,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,DraftKings,2.44,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,Bovada,1.56,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,Bovada,2.45,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,BetMGM,1.57,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,BetMGM,2.45,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,BetUS,1.6,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,BetUS,2.48,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,BetRivers,1.54,2025-08-14T21:11:34.743081+00:00
+91c0e5b89cd6f0f7bb77acfa35024f98,2025-08-15 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,BetRivers,2.5,2025-08-14T21:11:34.743081+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,FanDuel,1.57,2025-08-14T21:11:34.743081+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,FanDuel,2.48,2025-08-14T21:11:34.743081+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,LowVig.ag,1.61,2025-08-14T21:11:34.743081+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,LowVig.ag,2.49,2025-08-14T21:11:34.743081+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,BetOnline.ag,1.61,2025-08-14T21:11:34.743081+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,BetOnline.ag,2.49,2025-08-14T21:11:34.743081+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,DraftKings,1.57,2025-08-14T21:11:34.743081+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,DraftKings,2.44,2025-08-14T21:11:34.743081+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Philadelphia Phillies,MyBookie.ag,1.56,2025-08-14T21:11:34.743081+00:00
+dd870cf0a61e44ace6bc5040c5aec20d,2025-08-15 22:46:00+00:00,Washington Nationals,Philadelphia Phillies,Washington Nationals,MyBookie.ag,2.43,2025-08-14T21:11:34.743081+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Texas Rangers,BetOnline.ag,1.88,2025-08-14T21:11:34.743081+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Toronto Blue Jays,BetOnline.ag,2.03,2025-08-14T21:11:34.743081+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Texas Rangers,LowVig.ag,1.88,2025-08-14T21:11:34.743081+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Toronto Blue Jays,LowVig.ag,2.03,2025-08-14T21:11:34.743081+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Texas Rangers,FanDuel,1.85,2025-08-14T21:11:34.743081+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Toronto Blue Jays,FanDuel,2.0,2025-08-14T21:11:34.743081+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Texas Rangers,DraftKings,1.83,2025-08-14T21:11:34.743081+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Toronto Blue Jays,DraftKings,1.99,2025-08-14T21:11:34.743081+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Texas Rangers,MyBookie.ag,1.83,2025-08-14T21:11:34.743081+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Toronto Blue Jays,MyBookie.ag,1.99,2025-08-14T21:11:34.743081+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Texas Rangers,BetUS,1.88,2025-08-14T21:11:34.743081+00:00
+72801becbebac8f7b8c88d54b1dd92d6,2025-08-15 23:07:00+00:00,Toronto Blue Jays,Texas Rangers,Toronto Blue Jays,BetUS,2.03,2025-08-14T21:11:34.743081+00:00
+a6b26295a0f333cd609e5c09b3d9fa66,2025-08-15 23:11:00+00:00,Boston Red Sox,Miami Marlins,Boston Red Sox,FanDuel,1.6,2025-08-14T21:11:34.743081+00:00
+a6b26295a0f333cd609e5c09b3d9fa66,2025-08-15 23:11:00+00:00,Boston Red Sox,Miami Marlins,Miami Marlins,FanDuel,2.42,2025-08-14T21:11:34.743081+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,New York Mets,FanDuel,1.81,2025-08-14T21:11:34.743081+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,Seattle Mariners,FanDuel,2.06,2025-08-14T21:11:34.743081+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,New York Mets,LowVig.ag,1.83,2025-08-14T21:11:34.743081+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,Seattle Mariners,LowVig.ag,2.09,2025-08-14T21:11:34.743081+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,New York Mets,BetOnline.ag,1.83,2025-08-14T21:11:34.743081+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,Seattle Mariners,BetOnline.ag,2.09,2025-08-14T21:11:34.743081+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,New York Mets,DraftKings,1.81,2025-08-14T21:11:34.743081+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,Seattle Mariners,DraftKings,2.01,2025-08-14T21:11:34.743081+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,New York Mets,MyBookie.ag,1.81,2025-08-14T21:11:34.743081+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,Seattle Mariners,MyBookie.ag,2.01,2025-08-14T21:11:34.743081+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,New York Mets,BetUS,1.83,2025-08-14T21:11:34.743081+00:00
+31e399a7efd0c40c7ea5434edd421474,2025-08-15 23:11:00+00:00,New York Mets,Seattle Mariners,Seattle Mariners,BetUS,2.09,2025-08-14T21:11:34.743081+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Chicago White Sox,FanDuel,2.58,2025-08-14T21:11:34.743081+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Kansas City Royals,FanDuel,1.53,2025-08-14T21:11:34.743081+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Chicago White Sox,LowVig.ag,2.65,2025-08-14T21:11:34.743081+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Kansas City Royals,LowVig.ag,1.55,2025-08-14T21:11:34.743081+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Chicago White Sox,BetOnline.ag,2.65,2025-08-14T21:11:34.743081+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Kansas City Royals,BetOnline.ag,1.55,2025-08-14T21:11:34.743081+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Chicago White Sox,DraftKings,2.58,2025-08-14T21:11:34.743081+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Kansas City Royals,DraftKings,1.52,2025-08-14T21:11:34.743081+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Chicago White Sox,MyBookie.ag,2.57,2025-08-14T21:11:34.743081+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Kansas City Royals,MyBookie.ag,1.51,2025-08-14T21:11:34.743081+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Chicago White Sox,BetUS,2.61,2025-08-14T21:11:34.743081+00:00
+c443e2ab5209110d3ed759dabd9a8730,2025-08-16 00:11:00+00:00,Kansas City Royals,Chicago White Sox,Kansas City Royals,BetUS,1.55,2025-08-14T21:11:34.743081+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,New York Yankees,FanDuel,1.75,2025-08-14T21:11:34.743081+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,St. Louis Cardinals,FanDuel,2.14,2025-08-14T21:11:34.743081+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,New York Yankees,BetOnline.ag,1.79,2025-08-14T21:11:34.743081+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,St. Louis Cardinals,BetOnline.ag,2.14,2025-08-14T21:11:34.743081+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,New York Yankees,LowVig.ag,1.79,2025-08-14T21:11:34.743081+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,St. Louis Cardinals,LowVig.ag,2.14,2025-08-14T21:11:34.743081+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,New York Yankees,DraftKings,1.76,2025-08-14T21:11:34.743081+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,St. Louis Cardinals,DraftKings,2.08,2025-08-14T21:11:34.743081+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,New York Yankees,MyBookie.ag,1.75,2025-08-14T21:11:34.743081+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,St. Louis Cardinals,MyBookie.ag,2.08,2025-08-14T21:11:34.743081+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,New York Yankees,BetUS,1.79,2025-08-14T21:11:34.743081+00:00
+701db65f6f7da7832bb5460019fa736c,2025-08-16 00:16:00+00:00,St. Louis Cardinals,New York Yankees,St. Louis Cardinals,BetUS,2.15,2025-08-14T21:11:34.743081+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,FanDuel,1.54,2025-08-14T21:11:34.743081+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,FanDuel,2.54,2025-08-14T21:11:34.743081+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,LowVig.ag,1.55,2025-08-14T21:11:34.743081+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,LowVig.ag,2.64,2025-08-14T21:11:34.743081+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,BetOnline.ag,1.55,2025-08-14T21:11:34.743081+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,BetOnline.ag,2.64,2025-08-14T21:11:34.743081+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,DraftKings,1.52,2025-08-14T21:11:34.743081+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,DraftKings,2.58,2025-08-14T21:11:34.743081+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Arizona Diamondbacks,MyBookie.ag,1.51,2025-08-14T21:11:34.743081+00:00
+ed40c110d7febe24139d0a659b481b8f,2025-08-16 00:41:00+00:00,Colorado Rockies,Arizona Diamondbacks,Colorado Rockies,MyBookie.ag,2.57,2025-08-14T21:11:34.743081+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Los Angeles Angels,FanDuel,1.86,2025-08-14T21:11:34.743081+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Oakland Athletics,FanDuel,1.98,2025-08-14T21:11:34.743081+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Los Angeles Angels,LowVig.ag,1.94,2025-08-14T21:11:34.743081+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Oakland Athletics,LowVig.ag,1.96,2025-08-14T21:11:34.743081+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Los Angeles Angels,BetOnline.ag,1.94,2025-08-14T21:11:34.743081+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Oakland Athletics,BetOnline.ag,1.96,2025-08-14T21:11:34.743081+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Los Angeles Angels,DraftKings,1.91,2025-08-14T21:11:34.743081+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Oakland Athletics,DraftKings,1.91,2025-08-14T21:11:34.743081+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Los Angeles Angels,MyBookie.ag,1.9,2025-08-14T21:11:34.743081+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Oakland Athletics,MyBookie.ag,1.91,2025-08-14T21:11:34.743081+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Los Angeles Angels,BetUS,1.94,2025-08-14T21:11:34.743081+00:00
+2b08eabf87dc09e514ba3f6a38bd1f17,2025-08-16 02:06:00+00:00,Oakland Athletics,Los Angeles Angels,Oakland Athletics,BetUS,1.96,2025-08-14T21:11:34.743081+00:00
+ffd5e4fbace80d4ddac92a1ba6c734c3,2025-08-16 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,Los Angeles Dodgers,FanDuel,1.72,2025-08-14T21:11:34.743081+00:00
+ffd5e4fbace80d4ddac92a1ba6c734c3,2025-08-16 02:11:00+00:00,Los Angeles Dodgers,San Diego Padres,San Diego Padres,FanDuel,2.18,2025-08-14T21:11:34.743081+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,San Francisco Giants,FanDuel,1.75,2025-08-14T21:11:34.743081+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,Tampa Bay Rays,FanDuel,2.14,2025-08-14T21:11:34.743081+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,San Francisco Giants,BetOnline.ag,1.79,2025-08-14T21:11:34.743081+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,Tampa Bay Rays,BetOnline.ag,2.15,2025-08-14T21:11:34.743081+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,San Francisco Giants,LowVig.ag,1.79,2025-08-14T21:11:34.743081+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,Tampa Bay Rays,LowVig.ag,2.15,2025-08-14T21:11:34.743081+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,San Francisco Giants,DraftKings,1.76,2025-08-14T21:11:34.743081+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,Tampa Bay Rays,DraftKings,2.08,2025-08-14T21:11:34.743081+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,San Francisco Giants,MyBookie.ag,1.75,2025-08-14T21:11:34.743081+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,Tampa Bay Rays,MyBookie.ag,2.08,2025-08-14T21:11:34.743081+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,San Francisco Giants,BetUS,1.79,2025-08-14T21:11:34.743081+00:00
+be74124a1f9c18aef2fafec7e8ebf323,2025-08-16 02:16:00+00:00,San Francisco Giants,Tampa Bay Rays,Tampa Bay Rays,BetUS,2.16,2025-08-14T21:11:34.743081+00:00

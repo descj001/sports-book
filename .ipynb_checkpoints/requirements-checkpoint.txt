@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+requests
+requests_cache
+python-dotenv
+
+
