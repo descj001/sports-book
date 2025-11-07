@@ -1,1 +1,1 @@
-Code for a sports betting arbitrage finder.
+project retrieves and compares live betting odds from different sportsbooks to identify price discrepancies, enabling risk-free arbitrage bets by calculating the optimal stake distribution for guaranteed returns.
